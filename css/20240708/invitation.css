@@ -179,7 +179,7 @@
 }
 
 #inv-header {
-	background: url('/updatedchat/images/invitewidget/topbar.png');
+	background: url('../../images/Multisite/topbar.png');
 	height:58px;
 	margin: 0px;
 	width: 307px;
@@ -206,7 +206,7 @@
     float: right;
     cursor: pointer;
     padding: 30px 25px 30px 20px;
-    background: url('/updatedchat/images/invitewidget/close.jpg') 18px 12px no-repeat;
+    background: url('../../images/Multisite/close.jpg') 18px 12px no-repeat;
 }
 
 h2.inv-title a { 
@@ -217,7 +217,7 @@ h2.inv-title a {
 .inv-message:not(.match) {
 	display: inline-block;
 	width: 100%;
-	background: url('/updatedchat/images/invitewidget/message-bubble.jpg') no-repeat;
+	background: url('../../images/Multisite/message-bubble.jpg') no-repeat;
 }
 
 .inv-textarea {

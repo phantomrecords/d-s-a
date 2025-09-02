@@ -2111,7 +2111,7 @@ button.navbar-toggle {
 }
 #sidebar-menu > ul > li, #sidebar-menu > nav > ul > li {
   background: #f4f5f7;
-  background-image:url('/images/layout/menu/left-bg.jpg');
+  background-image:url('../../../images/Multisite/left-bg.jpg');
   display: block;
   color:#fff;
 }

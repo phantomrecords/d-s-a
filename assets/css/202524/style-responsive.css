@@ -1210,7 +1210,7 @@
 		background-position: center !important;
 	}
 	.topbar.anniversary{
-		background-image:url('/images/_multiSite/ds/logo_white_o.png');
+		background-image:url('../../../images/Multisite/logo_white_o.png');
 		background-size:50%;
 	}
 	/* trial banner homepage */
